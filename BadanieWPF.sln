@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadanieWPF", "BadanieWPF\BadanieWPF.csproj", "{D7A4509E-D32F-4B0E-9303-A26778418BE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controls", "Controls\Controls.csproj", "{CE31A84A-9862-46C9-B3EE-EA17278A8D86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tester", "Tester\Tester.csproj", "{55B80041-3C56-4121-A950-E167DF816DD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7A4509E-D32F-4B0E-9303-A26778418BE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A4509E-D32F-4B0E-9303-A26778418BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A4509E-D32F-4B0E-9303-A26778418BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A4509E-D32F-4B0E-9303-A26778418BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE31A84A-9862-46C9-B3EE-EA17278A8D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE31A84A-9862-46C9-B3EE-EA17278A8D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE31A84A-9862-46C9-B3EE-EA17278A8D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE31A84A-9862-46C9-B3EE-EA17278A8D86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55B80041-3C56-4121-A950-E167DF816DD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B80041-3C56-4121-A950-E167DF816DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B80041-3C56-4121-A950-E167DF816DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B80041-3C56-4121-A950-E167DF816DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

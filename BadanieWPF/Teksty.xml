@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TekstyBadania>
+  <Wstep>
+    <Tekst>
+      Za chwilę weźmiesz udział w badaniu dotyczącym zdolności poznawczych i matematycznych.
+      Badanie będzie składało się z serii zadań o których wykonanie zostaniesz poproszony.
+      Przed każdym zadaniem na ekranie komputera zostanie wyświetlona stosowna instrukcja.
+      Prosimy o zaznajomienie się z instrukcjami i wykonanie zadań.
+    </Tekst>
+    <Button>Rozpocznij</Button>
+  </Wstep>
+  <Zadanie1>
+    <Tekst>
+      Na ekranie zostanie wyświetlonych $ par słów. Postaraj się zapamiętać wszystkie pary.
+
+      Po zapamiętaniu listy nastąpi etap odtwarzania jej. Kiedy uznasz, że jesteś gotowy, wciśnij przycisk Dalej.
+      Przystąpisz wtedy do etapu odtwarzania listy słów.
+      Na ekranie zostanie wyświetlone jedno słowo z pary, a Twoim zadaniem będzie wprowadzenie za pomocą klawiatury drugiego słowa z pary.
+      Po wpisaniu odpowiedniego słowa (uwaga na literówki!), proszę wcisnąć przycisk Dalej. 
+      Jeśli nie pamiętasz odpowiedniego słowa lub wpiszesz błędne słowo, przycisk Dalej przeniesie Cię z powrotem do listy słów. 
+      Ten etap badania skończy się, gdy poprawnie odtworzysz wszystkie słowa.
+    </Tekst>
+    <Button>Dalej</Button>
+  </Zadanie1>
+
+  <Zadanie2>
+    <Tekst>
+      To zadanie będzie miało taki sam przebieg jak poprzednie.
+      Do zapamiętania jest teraz $ par słów.
+      Zadanie skończy się, gdy wszystkie pary zostaną odtworzone poprawnie.
+    </Tekst>
+    <Button>Dalej</Button>
+  </Zadanie2>
+
+  <Przerwa>
+    <Tekst>
+      W tym momencie nastąpią 2 minuty przerwy które możesz wykorzystać do odpoczynku.
+      Po 2 minutach program automatycznie wyświetli kolejne zadanie.
+    </Tekst>
+    <Button>brak</Button>
+  </Przerwa>
+
+  <Zadanie3>
+    <Tekst>
+      Następnym zadaniem będzie rozwiązywanie równań arytmetycznych.
+      Prosimy, abyś wszystkie obliczenia wykonywał w pamięci.
+      Równania będą wyświetlane pojedynczo, a do pustych pól należy wprowadzić rozwiązanie, które zawsze będzie liczbą całkowitą.
+      Po wprowadzeniu wyniku zatwierdź go klawiszem ENTER.
+      Poszczególne równania nie mają limitu czasowego.
+      Prosimy, abyś w przeciągu najbliższych 2 minut rozwiązał tyle równań ile jesteś w stanie.
+    </Tekst>
+    <Button>Rozpocznij</Button>
+    <Min>0</Min>
+    <Max>100</Max>
+  </Zadanie3>
+
+  <Zadanie4>
+    <Tekst>
+      Na koniec prosimy Cię o przypomnienie sobie jak największej ilości par słów które zapamiętywałeś w zadaniu $.
+
+      Po rozpoczęciu zadania wyświetlona zostanie lista 15 słów. Do każdego z nich trzeba dopisać to słowo które wcześniej znajdowało się z nim w parze.
+
+      Na wykonanie tego zadania masz 120 sekund.
+    </Tekst>
+    <Button>Rozpocznij</Button>
+  </Zadanie4>
+
+  <Koniec>
+    <Tekst>
+      Dziękujemy za Twój udział w badaniu.
+      Jeżeli chcesz wiedzieć coś więcej na temat tego badania porozmawiaj z jednym z eksperymentatorów.
+    </Tekst>
+    <Button>brak</Button>
+  </Koniec>
+  
+  <Slowa>
+    <Lista1>
+      Rok - Woda
+      Lata - Praca
+      Ludzie - Sztuka
+      Człowiek - Chwila
+      Jeden - Grupa
+      Dom  - Ręka
+      System - Strona
+      Warunek- Koniec
+      Sytuacja- Wartość
+      Miasto - Informacja
+      Droga - Oko
+      Cel - Przypadek
+      Problem - Działanie
+      Środek - Uwaga
+      Kobieta - Czas
+    </Lista1>
+    <Lista2>
+      Religia - Sprawa
+      Restauracja- Absurd
+      Reszta- Stróż
+      Sedno - Tablica
+      Strój - Tajemnica
+      Adres - Uderzenie
+      Urwiska - Admirał
+      Wybuch - Kosz
+      Koszmar - Wyjście
+      Wyjście - Zapałki
+      Koszt - Zasada
+      Koszula - Utwór
+      Kości - Korona
+      Kościół - Widmo
+      Kot - Urząd
+    </Lista2>
+  </Slowa>
+</TekstyBadania>
